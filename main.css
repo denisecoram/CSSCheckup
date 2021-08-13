@@ -1,0 +1,38 @@
+/* rule-set #1: Everything within the body tag will have a lightcoral background */
+body {
+    background-color: lightcoral;
+}
+
+/* rule-set #2: everything within a css-index class will have a darkgray background. */
+.css-index {
+    border-style: Solid;
+    border-width: 10px;
+    background-color: darkgray;
+}
+
+/* rule-set #3: */
+#number-one{
+    font: 16px;
+    color: red;
+}
+
+.css-index2 {
+    border: 3px solid darkcyan;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+#number-two{
+    background-color: darkred
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.image1 img{
+    width: 350px;
+    height: 350px;
+}
